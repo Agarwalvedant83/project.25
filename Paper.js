@@ -21,3 +21,4 @@ class Paper{
         image(this.image,pos.x,pos.y,33,33);
     }
 }
+git clone
